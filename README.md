@@ -1,4 +1,4 @@
-# Collection Framework API
+# Collection Framework API da Professora Camila Cavalcante - Santander Bootcamp 2024 - DIO
 
 - Uma coleção (collection) é uma estrutura de dados que serve para agrupar muitos elementos em uma única unidade; estes elementos precisam ser objetos.
 - Uma Collection pode ter coleções homogêneas e heterogêneas, normalmente utilizamos coleções homogêneas de um tipo específico.
